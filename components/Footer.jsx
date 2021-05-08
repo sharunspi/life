@@ -1,80 +1,83 @@
 import React from 'react';
-import Link from 'next/link';
-import { faHeart, faHandsHelping } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import useLocale from '@hooks/use-locale';
+import { useLocaleContext } from '@hooks/use-locale-context';
+
 const Footer = () => {
+    const { locale } = useLocaleContext();
+    const t = useLocale(locale, 'home');
+    const socialArr = [
+        {
+            text: `${t.github}`,
+            link: 'https://github.com/coronasafe/life'
+        },
+        {
+            text: `${t.api}`,
+            link: 'https://life-api.coronasafe.network/'
+        },
+        {
+            text: `${t.about}`,
+            link: '/about'
+        },
+        {
+            text: `${t.infoOnCovid}`,
+            link: '/videos'
+        }
+    ];
     return (
-        <footer className="bg-gray-200 dark:bg-gray-1200 absolute top-full left-0 w-full py-10">
-            <section className="flex justify-center">
-                <Link href="/data">
-                    <button
-                        type="button"
-                        className="flex mx-2 items-center px-3 py-2 border border-transparent shadow-sm text-sm leading-4 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
-                        Contribute Verified Data
-                    </button>
-                </Link>
-                <Link href="/campaigns">
-                    <button
-                        type="button"
-                        className="flex mx-2 items-center px-3 py-2 border border-transparent shadow-sm text-sm leading-4 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
-                        Support
-                    </button>
-                </Link>
+        <footer className="bg-gray-200 dark:bg-gray-1200 w-full flex-shrink-0 pt-6 pb-2">
+            <section className="flex flex-wrap justify-center my-3 text-sm">
+                <div className="flex items-center mr-2 text-gray-900 dark:text-gray-500">
+                    <span className="font-semibold mr-2">{t.disclaimer}: </span>
+                    <span className="">{t.dataNotOwned}</span>
+                </div>
+                <div>
+                    <a href="/disclaimer" className="font-semibold text-indigo-500 underline">
+                        {t.knowMore}
+                    </a>
+                </div>
             </section>
             <div className="max-w-7xl mx-auto py-6 px-4 overflow-hidden sm:px-6 lg:px-8 sm:flex items-center justify-between">
                 <p className="mb-5 sm:mb-0 text-center text-base text-gray-500">
-                    Curated by{' '}
-                    <Link href="https://covidfyi.in/">
+                    {`${t.curatedBy} `}
+                    <a href="https://covidfyi.in/">
                         <span className="underline cursor-pointer text-indigo-600 dark:text-primary-500">
                             Covid FYI
                         </span>
-                    </Link>
+                    </a>
                 </p>
                 <p className="mb-5 sm:mb-0 text-center text-base text-gray-500">
-                    Supported by{' '}
-                    <Link href="https://www.swasth.app">
+                    {`${t.supportedBy} `}
+                    <a href="https://www.swasth.app">
                         <span className="underline cursor-pointer text-indigo-600 dark:text-primary-500">
                             Swasth Alliance
                         </span>
-                    </Link>{' '}
+                    </a>{' '}
                     |{' '}
-                    <Link href="https://vercel.com?utm_source=life&utm_campaign=oss">
+                    <a href="https://vercel.com?utm_source=life&utm_campaign=oss">
                         <span className="underline cursor-pointer text-indigo-600 dark:text-primary-500">
                             Vercel
                         </span>
-                    </Link>
+                    </a>
                 </p>
 
                 <p className="mb-5 sm:mb-0 text-center text-base text-gray-500">
-                    Powered By{' '}
-                    <Link href="https://coronasafe.network/">
+                    {`${t.poweredBy} `}
+                    <a href="https://coronasafe.network/">
                         <span className="underline cursor-pointer text-indigo-600 dark:text-primary-500">
                             CoronaSafe Network
                         </span>
-                    </Link>
+                    </a>
                 </p>
                 <nav className="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
-                    <div className="px-5 py-2">
-                        <Link href="https://github.com/coronasafe/life">
-                            <span className="text-base text-gray-700 hover:text-indigo-600 cursor-pointer dark:text-primary-200">
-                                GitHub
-                            </span>
-                        </Link>
-                    </div>
-                    <div className="px-5 py-2">
-                        <Link href="https://github.com/coronasafe/life">
-                            <span className="text-base text-gray-700 hover:text-indigo-600 cursor-pointer dark:text-primary-200">
-                                Database
-                            </span>
-                        </Link>
-                    </div>
-                    <div className="px-5 py-2">
-                        <Link href="/about">
-                            <span className="text-base text-gray-700 hover:text-indigo-600 cursor-pointer dark:text-primary-200">
-                                About
-                            </span>
-                        </Link>
-                    </div>
+                    {socialArr.map((el) => (
+                        <div className="px-5 py-2" key={el.text + el.link}>
+                            <a href={el.link}>
+                                <span className="text-base text-gray-700 hover:text-indigo-600 cursor-pointer dark:text-primary-200">
+                                    {el.text}
+                                </span>
+                            </a>
+                        </div>
+                    ))}
                 </nav>
             </div>
         </footer>

@@ -1,31 +1,34 @@
-import React, { useState } from 'react';
-import { getDistricts } from '../../lib/api';
-import { parametreize, statesStaticPaths } from '../../lib/utils';
-import { humanize } from '../../lib/utils';
-import TabLinks from '../../components/TabLinks';
-import Breadcumb from '../../components/Breadcumb';
-import Link from 'next/link';
-import { tabsInfo } from '../../lib/tabs';
+import React from 'react';
+import { parametreize, statesStaticPaths, humanize } from '@lib/utils';
 import { NextSeo } from 'next-seo';
+import DetailedHome from '@components/DetailedHome';
+import { useRouter } from 'next/router';
 
 export default function State({ state }) {
-    // data.filter((el) => el.district.toLowerCase().includes(search));
-    let districts = getDistricts(state);
-    const [searchStr, setSearchStr] = useState('');
-    const filterDistricts = districts.filter((el) =>
-        el.district.toLowerCase().includes(searchStr.toLowerCase())
-    );
     const SEO = {
         title: `${humanize(state)} | Coronasafe network`,
         description: `Covid19 Resources for ${humanize(state)} `,
         openGraph: {
             title: `${humanize(state)} | Coronasafe network`,
             description: `Covid19 Resources for ${humanize(state)} `
-        }
+        },
+        additionalMetaTags: [
+            {
+                property: 'keywords',
+                content: `covid19,india,resources,coronasafe,swasth alliance,covidfyi,${humanize(
+                    state
+                )},hospital,ambulance,helpline,oxygen,medicine`
+            }
+        ]
     };
+
+    const { query } = useRouter();
+    const resourceType = query.resource;
+
     return (
-        <section className="md:pt-10">
+        <>
             <NextSeo {...SEO} />
+<<<<<<< HEAD
             <Breadcumb list={[{ href: null, name: humanize(state) }]} />
             <h1 className="mt-4 text-xl sm:text-2xl md:text-3xl md:text-left text-gray-900 dark:text-gray-800">
                 Search Result For{' '}
@@ -70,6 +73,10 @@ export default function State({ state }) {
                 </div>
             </div>
         </section>
+=======
+            <DetailedHome key={state} state={humanize(state)} type={resourceType} />
+        </>
+>>>>>>> upstream/main
     );
 }
 

@@ -1,12 +1,21 @@
 import Link from 'next/link';
 import React, { useEffect, useState } from 'react';
 
-import { districtWithState, getStates } from '../lib/api';
-import { parametreize, humanize, activeStates } from '../lib/utils';
+import { districtWithState } from '@lib/api';
+import { parametreize, humanize, activeStates } from '@lib/utils';
+import TwitterResultCard from '@components/TwitterResult';
 
-const Selector = ({ data, page }) => {
+import PulseSvg from '@components/icons/PulseIcon';
+import { faTwitter } from '@fortawesome/free-brands-svg-icons';
+import '@fortawesome/fontawesome-svg-core/styles.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import PulseSvg from '@components/PulseSvg';
+import useFetch from '@hooks/use-fetch';
+
+const Selector = ({ data, page, placeholder, localeState, localeDistrict }) => {
     const [searchStr, setSearchStr] = useState('');
     const [editing, setEditing] = useState(false);
+    const [covidConnectResults, loading] = useFetch({ city: searchStr });
 
     const filterTests = (_data, field = null) => {
         return _data
@@ -30,30 +39,46 @@ const Selector = ({ data, page }) => {
             window.removeEventListener('click', curriedFn, true);
         };
     }, []);
+
     return (
         <>
-            <input
-                key="search-bar"
-                type="text"
-                className="mt-6 w-full h-12 rounded mb-2 focus:outline-none focus:shadow-outline text-xl px-8 shadow-lg dark:bg-gray-1200 dark:placeholder-gray-500 dark:text-gray-200"
-                placeholder={`Search for ${page} availability in a State or District`}
-                value={searchStr}
-                onChange={(e) => {
-                    setEditing(false);
-                    setSearchStr(e.target.value);
-                }}
-                onClick={(e) => {
-                    setEditing(true);
-                    e.stopPropagation();
-                }}
-            />
+            <div className="mb-2 shadow-lg">
+                <input
+                    key="search-bar"
+                    type="text"
+                    className="mt-6 w-full h-12 rounded-t  focus:outline-none focus:shadow-outline text-xl px-8  dark:bg-gray-1200  dark:placeholder-gray-500 dark:text-gray-200"
+                    placeholder={placeholder}
+                    value={searchStr}
+                    onChange={(e) => {
+                        setEditing(false);
+                        setSearchStr(e.target.value);
+                    }}
+                    onClick={(e) => {
+                        setEditing(true);
+                        e.stopPropagation();
+                    }}
+                />
+                <div className="px-8 py-2  text-black-500 bg-gray-100 dark:bg-gray-1200 opacity-80 rounded-b text">
+                    <FontAwesomeIcon
+                        className="text-blue-500 mr-2"
+                        title="Share on Twitter"
+                        icon={faTwitter}
+                    />
+                  <span>Type a city name to see Real Time Tweets Below</span>
+                    <span className="ml-2">
+                        <PulseSvg className="inline stroke-current text-blue-600" width={25} />
+                    </span>
+                </div>
+            </div>
             {(searchStr || editing) && (
                 <div
                     key="result"
-                    className="p-4 bg-white  dark:bg-gray-1200 dark:text-gray-400 mt-1 rounded-lg shadow-lg flex">
+                    className="p-4 bg-white  dark:bg-gray-1200 dark:text-gray-400 mt-1 rounded-lg rounded-b-none shadow-lg flex">
                     {filterTests(activeStates(districtWithState(page))).length !== 0 && (
                         <div className="w-1/2 p-4">
-                            <h1 className="font-semibold text-lg dark:text-gray-200">State</h1>
+                            <h1 className="font-semibold text-lg dark:text-gray-200">
+                                {localeState}
+                            </h1>
                             {filterTests(activeStates(districtWithState(page))).map((i) => {
                                 return (
                                     <div key={i} className="md">
@@ -65,11 +90,13 @@ const Selector = ({ data, page }) => {
                     )}
                     {filterTests(districtWithState(page), 'district').length !== 0 && (
                         <div className="w-1/2 p-4">
-                            <h1 className="font-semibold text-lg dark:text-gray-200">District</h1>
+                            <h1 className="font-semibold text-lg dark:text-gray-200">
+                                {localeDistrict}
+                            </h1>
                             {filterTests(districtWithState(page), 'district').map((i) => {
                                 const url = `/${parametreize(i.state)}/${parametreize(
                                     i.district
-                                )}/${page}`;
+                                )}/${page === 'all' ? '' : page}`;
                                 return (
                                     <div key={i.district} className="md">
                                         <Link href={url}>{humanize(i.district)}</Link>
@@ -79,6 +106,16 @@ const Selector = ({ data, page }) => {
                         </div>
                     )}
                 </div>
+            )}
+            {loading ? (
+                <></>
+            ) : (
+                (searchStr || editing) && (
+                    <TwitterResultCard
+                        searchStr={searchStr}
+                        covidConnectResults={covidConnectResults}
+                    />
+                )
             )}
         </>
     );

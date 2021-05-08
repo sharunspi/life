@@ -10,7 +10,6 @@
             "id": "rec0NdgiF3gRImJLJ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -23,7 +22,6 @@
             "id": "rec0R45CDLZS4NBew",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -36,7 +34,6 @@
             "id": "rec0RWNgtQaPzySai",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -48,8 +45,7 @@
             "hospitals": true,
             "id": "rec0aBa4gXPxKtWf9",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -62,7 +58,6 @@
             "id": "rec0aOqdQ62s2CGFK",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -74,8 +69,7 @@
             "hospitals": false,
             "id": "rec0hclNRhpmnVVej",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Assam"
         },
         {
@@ -88,7 +82,6 @@
             "id": "rec0hkVShEprR4BxX",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -101,7 +94,6 @@
             "id": "rec0mOqslEkr0xC12",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -114,7 +106,6 @@
             "id": "rec13ONJ541HM3TEX",
             "medicine": false,
             "oxygen": true,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -127,7 +118,6 @@
             "id": "rec17JeX8sG4nL85s",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -140,7 +130,6 @@
             "id": "rec19fpcDztVslObh",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -153,7 +142,6 @@
             "id": "rec1APp21dpVt2eiM",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -165,8 +153,7 @@
             "hospitals": false,
             "id": "rec1M5UzWHEflCkJI",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Haryana"
         },
         {
@@ -179,7 +166,6 @@
             "id": "rec1M7U9YrPXOeiP1",
             "medicine": false,
             "oxygen": false,
-            "plasma": true,
             "state": "Madhya Pradesh"
         },
         {
@@ -192,7 +178,6 @@
             "id": "rec1bP76EIfahnXUy",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -205,8 +190,7 @@
             "id": "rec1bhaOpIKmMK4Xt",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -218,7 +202,6 @@
             "id": "rec1dsvxn9jurTqpV",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -231,7 +214,6 @@
             "id": "rec1nuCynziFI6U9h",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttarakhand"
         },
         {
@@ -244,7 +226,6 @@
             "id": "rec1seH7hQ6cYpQiM",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -257,7 +238,6 @@
             "id": "rec2507E9OtbTl0KL",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -270,7 +250,6 @@
             "id": "rec25wC2do7DDNdJm",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -283,7 +262,6 @@
             "id": "rec2GtnmDyIWIZlyl",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -296,7 +274,6 @@
             "id": "rec2LWDVJ0vkMIle7",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -309,7 +286,6 @@
             "id": "rec2NQEbE3tMNa0DM",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -322,7 +298,6 @@
             "id": "rec2W08nlMV9Q2fNp",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Kerala"
         },
         {
@@ -335,7 +310,6 @@
             "id": "rec2YeAL6BZm2u3qd",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -348,7 +322,6 @@
             "id": "rec2cQ9hfJO5bTCGC",
             "medicine": true,
             "oxygen": true,
-            "plasma": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -357,11 +330,10 @@
             "district": "Dadra & Nagar Haveli",
             "doctor": false,
             "helpline": true,
-            "hospitals": false,
+            "hospitals": true,
             "id": "rec2gWTqkSCGGaUTu",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Dadra and Nagar Haveli and Daman & Diu (UT)"
         },
         {
@@ -374,7 +346,6 @@
             "id": "rec2kSFZnMxYyCG7Q",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -387,7 +358,6 @@
             "id": "rec2y28dikRV3ZR0T",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -400,7 +370,6 @@
             "id": "rec32ABECm85ZgI62",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -413,7 +382,6 @@
             "id": "rec37bD7L2Y0x82NZ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -426,7 +394,6 @@
             "id": "rec3CYfWzziX4ULGp",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tripura"
         },
         {
@@ -439,7 +406,6 @@
             "id": "rec3MdzFULXBfkfKw",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -451,8 +417,7 @@
             "hospitals": false,
             "id": "rec3dqppT0Wr1t2ak",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -465,7 +430,6 @@
             "id": "rec3hFGo1FrTprFJz",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Kerala"
         },
         {
@@ -478,7 +442,6 @@
             "id": "rec3lLTYtP0QlEAMl",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -490,8 +453,7 @@
             "hospitals": false,
             "id": "rec3m5iRh1mDeeBPF",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Kerala"
         },
         {
@@ -504,7 +466,6 @@
             "id": "rec3oKTW9SeVNtbLU",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -517,7 +478,6 @@
             "id": "rec3rPsHZdjFGjmhn",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -530,7 +490,6 @@
             "id": "rec3vcgKCgh3XMLEF",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -543,8 +502,19 @@
             "id": "rec4AnQZl3bTcLVxj",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Hamirpur",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": false,
+            "id": "rec4CXkBunvR8xxxJ",
+            "medicine": false,
+            "oxygen": true,
+            "state": "Himachal Pradesh"
         },
         {
             "ambulance": false,
@@ -556,7 +526,6 @@
             "id": "rec4ERg8sP7dB6IF6",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -569,7 +538,6 @@
             "id": "rec4Q10WxCywEHSqy",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Andhra Pradesh"
         },
         {
@@ -582,7 +550,6 @@
             "id": "rec4VRg6mdSlSPjjQ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -595,7 +562,6 @@
             "id": "rec4Wk4Sr46iPJ3IQ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Karnataka"
         },
         {
@@ -608,7 +574,6 @@
             "id": "rec4bSYDl6Jwccw6c",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Andhra Pradesh"
         },
         {
@@ -621,7 +586,6 @@
             "id": "rec4fGYfn1qNN0agz",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -634,7 +598,6 @@
             "id": "rec4fK2bBxw819FrY",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -647,7 +610,6 @@
             "id": "rec4iqdykoRksrdI6",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -659,8 +621,7 @@
             "hospitals": false,
             "id": "rec59ewVAEuTTXHtr",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "West Bengal"
         },
         {
@@ -673,7 +634,6 @@
             "id": "rec5aMuwPwjzt8eMb",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Kerala"
         },
         {
@@ -686,7 +646,6 @@
             "id": "rec5gYf81Rc0FBB7S",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tripura"
         },
         {
@@ -699,7 +658,6 @@
             "id": "rec5mDn3HvqBI7VWJ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Delhi (NCT)"
         },
         {
@@ -712,7 +670,6 @@
             "id": "rec5nBGzBVeK2mzlD",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tripura"
         },
         {
@@ -724,8 +681,7 @@
             "hospitals": false,
             "id": "rec5rC5jgFDCzLPZT",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -738,7 +694,6 @@
             "id": "rec5vs3oheHCjufDR",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -751,7 +706,6 @@
             "id": "rec5zun3agT4U2GLv",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -764,8 +718,19 @@
             "id": "rec69jqvv4GGiqhxt",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Sirmaur (Sirmour)",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": false,
+            "id": "rec6AcnZrpV2YPoNt",
+            "medicine": false,
+            "oxygen": true,
+            "state": "Himachal Pradesh"
         },
         {
             "ambulance": false,
@@ -777,7 +742,6 @@
             "id": "rec6ETDyYVsMlHt7i",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttarakhand"
         },
         {
@@ -790,7 +754,6 @@
             "id": "rec6FBOPHylVNq3Vj",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Karnataka"
         },
         {
@@ -803,7 +766,6 @@
             "id": "rec6GV555MIz3lwrC",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -816,7 +778,6 @@
             "id": "rec6O16xGlASKEyOh",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Sikkim"
         },
         {
@@ -828,8 +789,7 @@
             "hospitals": true,
             "id": "rec6X0UznKNeGbqox",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -842,7 +802,6 @@
             "id": "rec6YpOUmi6cqZesV",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -855,7 +814,6 @@
             "id": "rec6dX46DMwyy2aWt",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -867,8 +825,7 @@
             "hospitals": true,
             "id": "rec6eQIzqBfmuh1pr",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -881,7 +838,6 @@
             "id": "rec6jZYKBYzPIetnF",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -894,7 +850,6 @@
             "id": "rec6m5GMDwtN2flmS",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -907,8 +862,7 @@
             "id": "rec6nVAX5x42TPzcx",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -920,7 +874,6 @@
             "id": "rec6pj5oJlvKEBPGu",
             "medicine": false,
             "oxygen": true,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -933,7 +886,6 @@
             "id": "rec6tZ6GAfOYYIz9k",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -946,7 +898,6 @@
             "id": "rec78mDwzGNWjKZp5",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -959,7 +910,18 @@
             "id": "rec79zlSKkpLGCubk",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
+            "state": "Tamil Nadu"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Tiruchirappalli",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": false,
+            "id": "rec7WIWNBfwWopEBE",
+            "medicine": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
         },
         {
@@ -972,7 +934,6 @@
             "id": "rec7WU3MVUDiNSSVW",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -985,7 +946,6 @@
             "id": "rec7ZqFqKpamshx4f",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -997,8 +957,7 @@
             "hospitals": false,
             "id": "rec7a2JcBVn7XwoQL",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Jharkhand"
         },
         {
@@ -1011,7 +970,6 @@
             "id": "rec7ebInffE3Pfxmd",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -1020,11 +978,10 @@
             "district": "Patna",
             "doctor": true,
             "helpline": true,
-            "hospitals": false,
+            "hospitals": true,
             "id": "rec7lKIO4tcbCIsck",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -1037,7 +994,6 @@
             "id": "rec7mJXOj7ohTgQH3",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -1049,8 +1005,7 @@
             "hospitals": true,
             "id": "rec7ovjxe9TvbRJY6",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Nagaland"
         },
         {
@@ -1063,7 +1018,6 @@
             "id": "rec7z09iULrNTqxu8",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -1076,7 +1030,6 @@
             "id": "rec83BiN7O99ICbFe",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -1089,7 +1042,6 @@
             "id": "rec85LKG2i4G4JjT5",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -1102,7 +1054,6 @@
             "id": "rec89eIZsV4YSBPb6",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -1115,7 +1066,6 @@
             "id": "rec8DR0ki0wsc17WO",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -1127,8 +1077,7 @@
             "hospitals": true,
             "id": "rec8FIHy4a93ehJYu",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Andhra Pradesh"
         },
         {
@@ -1141,7 +1090,6 @@
             "id": "rec8JEl0H2Gq9NPF3",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -1153,8 +1101,7 @@
             "hospitals": true,
             "id": "rec8Jw36m9tD52Lxs",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -1167,7 +1114,6 @@
             "id": "rec8M32ZbxJqcBFiP",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Kerala"
         },
         {
@@ -1179,8 +1125,7 @@
             "hospitals": true,
             "id": "rec8SK0bFZtNoJtYO",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Rajasthan"
         },
         {
@@ -1192,8 +1137,7 @@
             "hospitals": false,
             "id": "rec8SxDjhoFwp9YF1",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -1206,7 +1150,6 @@
             "id": "rec8UeSjAOMl8Pk3y",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -1218,8 +1161,7 @@
             "hospitals": true,
             "id": "rec97r9GVXHHGtGJ0",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Rajasthan"
         },
         {
@@ -1232,7 +1174,6 @@
             "id": "rec9Yh1noWqhQcqpm",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -1245,20 +1186,18 @@
             "id": "rec9aUEhkol9sPq7p",
             "medicine": true,
             "oxygen": true,
-            "plasma": true,
             "state": "West Bengal"
         },
         {
             "ambulance": true,
             "contact": true,
             "district": "New Delhi",
-            "doctor": false,
+            "doctor": true,
             "helpline": true,
             "hospitals": true,
             "id": "rec9amzhpfopyIHTk",
             "medicine": true,
             "oxygen": true,
-            "plasma": true,
             "state": "Delhi (NCT)"
         },
         {
@@ -1270,8 +1209,7 @@
             "hospitals": false,
             "id": "rec9izXl99A6not0z",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Haryana"
         },
         {
@@ -1283,9 +1221,20 @@
             "hospitals": false,
             "id": "rec9p4TYXkebh5zSL",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Assam"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Dakshin Dinajpur (South Dinajpur)",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": false,
+            "id": "rec9t8cBjwTCkYsii",
+            "medicine": false,
+            "oxygen": true,
+            "state": "West Bengal"
         },
         {
             "ambulance": false,
@@ -1297,7 +1246,6 @@
             "id": "recA4IihfGNPtxXLu",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -1310,8 +1258,7 @@
             "id": "recA5i0urYjtzo7tE",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -1323,7 +1270,6 @@
             "id": "recA8CSw9VYre8Lqd",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -1336,7 +1282,6 @@
             "id": "recADWpx4ouecEaih",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -1349,7 +1294,6 @@
             "id": "recALyI9mJSD3Jfvm",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -1362,7 +1306,6 @@
             "id": "recAmgBjAu1NrYW0z",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tripura"
         },
         {
@@ -1375,7 +1318,6 @@
             "id": "recAsYPgTz1iOGKXw",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -1387,8 +1329,7 @@
             "hospitals": false,
             "id": "recAusdd0dWiXKJEM",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
         },
         {
@@ -1401,7 +1342,6 @@
             "id": "recB4NJA25RVkISsL",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -1414,7 +1354,6 @@
             "id": "recBMm4tILRKvAcnc",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -1427,7 +1366,6 @@
             "id": "recBTUJ6Jw94JHzk5",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -1440,7 +1378,6 @@
             "id": "recBVCEOAf6UoHmkI",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -1453,7 +1390,6 @@
             "id": "recBZspoiDKVIMw3o",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Karnataka"
         },
         {
@@ -1466,7 +1402,6 @@
             "id": "recBopfbg1UI2Ojot",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -1479,7 +1414,6 @@
             "id": "recBqFYMyBUVHIPmV",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -1492,8 +1426,7 @@
             "id": "recByTSsDh3qecp6X",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -1505,7 +1438,6 @@
             "id": "recC0XNHrsp9VYGNk",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -1518,7 +1450,6 @@
             "id": "recC6bKuJyhA68VQY",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -1531,7 +1462,6 @@
             "id": "recCAGemG9bwgVFJ5",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Andaman and Nicobar Islands (UT)"
         },
         {
@@ -1544,7 +1474,6 @@
             "id": "recCFLhgz897WVLtr",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -1557,7 +1486,6 @@
             "id": "recCSKW13qWz44CdE",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Andhra Pradesh"
         },
         {
@@ -1570,7 +1498,6 @@
             "id": "recCW7dniCCXLv6lx",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -1583,7 +1510,6 @@
             "id": "recCZinMYH3XiTJLF",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -1596,7 +1522,6 @@
             "id": "recCbMEWyinOpg9sL",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Kerala"
         },
         {
@@ -1609,7 +1534,6 @@
             "id": "recCeKqvkPJdmm0yB",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -1622,7 +1546,6 @@
             "id": "recCgO50f9DOGtHes",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -1635,7 +1558,6 @@
             "id": "recCoioLssdldy8u9",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -1648,7 +1570,6 @@
             "id": "recCp6RPfhF2nxEwH",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -1660,8 +1581,7 @@
             "hospitals": false,
             "id": "recCuDugOytJWakbz",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "West Bengal"
         },
         {
@@ -1673,8 +1593,7 @@
             "hospitals": false,
             "id": "recCvtQEeOXMGWGQJ",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
         },
         {
@@ -1687,7 +1606,6 @@
             "id": "recD8u9lFFPA1hFdi",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -1700,7 +1618,6 @@
             "id": "recDBLe8MRMXULYRl",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -1713,7 +1630,6 @@
             "id": "recDC36LfqMd2r3Yy",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -1726,7 +1642,6 @@
             "id": "recDGbazuzIJz3gng",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -1739,7 +1654,6 @@
             "id": "recDImjZTrJdVlyNt",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -1752,7 +1666,6 @@
             "id": "recDWED1qZxUi4niJ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -1765,7 +1678,6 @@
             "id": "recDfVguP4glHqN0E",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -1778,7 +1690,6 @@
             "id": "recDh5MFXdhjgocSn",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -1791,7 +1702,6 @@
             "id": "recE12B3akBmJRvJX",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -1804,7 +1714,6 @@
             "id": "recE3bouv5DZGK6up",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -1817,7 +1726,6 @@
             "id": "recE8PXXe9m3kwPBb",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Meghalaya"
         },
         {
@@ -1830,7 +1738,6 @@
             "id": "recEDt1WkPXghw4RQ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -1843,7 +1750,6 @@
             "id": "recEKN0dPSgAiecYc",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -1856,7 +1762,6 @@
             "id": "recETlriCTRQWa6c4",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -1869,7 +1774,6 @@
             "id": "recEUeAZoFFEKiQOA",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -1882,7 +1786,6 @@
             "id": "recEjhqVHvzOAtunR",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -1895,7 +1798,6 @@
             "id": "recEqhyaBXtJnUEoE",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -1908,7 +1810,6 @@
             "id": "recEsfvO6CpvoNtDz",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -1920,9 +1821,8 @@
             "hospitals": true,
             "id": "recFUA7SF038xNsE3",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "oxygen": true,
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -1934,7 +1834,6 @@
             "id": "recFUYppY7rJfy6N2",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -1947,7 +1846,6 @@
             "id": "recFtDkeMWnX9JIvB",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -1960,7 +1858,6 @@
             "id": "recFxdOaYscKTHIjM",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -1973,7 +1870,6 @@
             "id": "recGHIriQ0CuP1o8H",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -1986,7 +1882,6 @@
             "id": "recGR3UZVAr8pqAwx",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -1998,8 +1893,7 @@
             "hospitals": true,
             "id": "recGSKq24Af1ZoqGj",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Kerala"
         },
         {
@@ -2012,7 +1906,6 @@
             "id": "recGfqbqC4GBNX9ey",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -2025,7 +1918,6 @@
             "id": "recGfwBW28q5ofFgf",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -2038,7 +1930,6 @@
             "id": "recGgEflGud8QvK3F",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -2051,7 +1942,6 @@
             "id": "recGz3Zz4pvzcU9s2",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -2064,8 +1954,19 @@
             "id": "recHBOD5FK3DioKwS",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Vijayapura (Bijapur)",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": false,
+            "id": "recHDxst0p82dTsfF",
+            "medicine": false,
+            "oxygen": true,
+            "state": "Karnataka"
         },
         {
             "ambulance": false,
@@ -2077,7 +1978,6 @@
             "id": "recHPyn7FpKxUpMOk",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -2089,8 +1989,7 @@
             "hospitals": true,
             "id": "recHQuWZ1V8qgWvZc",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -2103,7 +2002,6 @@
             "id": "recHUUdVQr6lQ4dhY",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -2116,7 +2014,6 @@
             "id": "recHZoeyrYaoMtJtK",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -2128,8 +2025,7 @@
             "hospitals": false,
             "id": "recI4ahK5yaunqJ39",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -2142,7 +2038,6 @@
             "id": "recIDP94LCgdvA3qC",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Meghalaya"
         },
         {
@@ -2155,7 +2050,6 @@
             "id": "recIEJK2ZOyFko8wg",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -2168,7 +2062,6 @@
             "id": "recIEYv38kL0kRyFj",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -2181,7 +2074,6 @@
             "id": "recIKbBOGmWuaA98S",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -2193,8 +2085,7 @@
             "hospitals": false,
             "id": "recINCGKgi115OKCT",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -2207,7 +2098,6 @@
             "id": "recIS5C9NJzaYxrLf",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -2220,7 +2110,6 @@
             "id": "recIWRS2ftW2tSIub",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -2233,7 +2122,6 @@
             "id": "recImWh5gTkIhByNK",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -2246,7 +2134,6 @@
             "id": "recIpjhv32lEZfZxz",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -2259,7 +2146,6 @@
             "id": "recIswe5TSen03rc8",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Odisha"
         },
         {
@@ -2272,7 +2158,6 @@
             "id": "recIwQSxkP67e47Z6",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -2285,7 +2170,6 @@
             "id": "recIyfikG1nQvqy71",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -2298,7 +2182,6 @@
             "id": "recJ1DeZXTaqEfc2t",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -2311,7 +2194,6 @@
             "id": "recJ51rKpu98TqEKB",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -2324,20 +2206,18 @@
             "id": "recJEH16S2Ikr6XWQ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
             "ambulance": false,
             "contact": true,
             "district": "Gurgaon",
-            "doctor": false,
+            "doctor": true,
             "helpline": true,
             "hospitals": true,
             "id": "recJHuYsP4t9ytH3C",
-            "medicine": false,
+            "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -2349,8 +2229,7 @@
             "hospitals": false,
             "id": "recJcnlYQ9HHSiKwH",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Haryana"
         },
         {
@@ -2363,7 +2242,6 @@
             "id": "recJg8g2W1xRCZZUD",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Puducherry (UT)"
         },
         {
@@ -2376,7 +2254,6 @@
             "id": "recJqymRqvjEWrcY1",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -2389,7 +2266,6 @@
             "id": "recJvKMPz2acZ5gaH",
             "medicine": false,
             "oxygen": true,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -2402,7 +2278,6 @@
             "id": "recK3qVpUrqTUWLCg",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -2415,7 +2290,6 @@
             "id": "recKBShTac2YDvANg",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -2428,7 +2302,6 @@
             "id": "recKHr1aVafQu00Yv",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -2439,9 +2312,8 @@
             "helpline": true,
             "hospitals": false,
             "id": "recKYF7Rp46qihqYy",
-            "medicine": false,
+            "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -2454,7 +2326,6 @@
             "id": "recKa0ZmtzwZIWU43",
             "medicine": false,
             "oxygen": true,
-            "plasma": false,
             "state": "Delhi (NCT)"
         },
         {
@@ -2467,7 +2338,6 @@
             "id": "recKhvg7qIdOAqbbx",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -2480,7 +2350,6 @@
             "id": "recKiwH7QYxIj7j6M",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Kerala"
         },
         {
@@ -2493,7 +2362,6 @@
             "id": "recKk4MS5AckiELAc",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -2506,7 +2374,6 @@
             "id": "recKysYTz7YUKKF9f",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -2519,7 +2386,6 @@
             "id": "recL08pOLYSr2HhPR",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Meghalaya"
         },
         {
@@ -2532,7 +2398,6 @@
             "id": "recL97eWd7JHo73Eg",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -2545,7 +2410,6 @@
             "id": "recLPqVUaZhaflppK",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -2557,8 +2421,7 @@
             "hospitals": true,
             "id": "recLfudcqXH9m619M",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Karnataka"
         },
         {
@@ -2570,8 +2433,7 @@
             "hospitals": true,
             "id": "recLoFX91ejtcakOW",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Kerala"
         },
         {
@@ -2584,7 +2446,6 @@
             "id": "recLwvcXInHMi1aVx",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Kerala"
         },
         {
@@ -2597,7 +2458,6 @@
             "id": "recLzqjK5wUxAhPAl",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -2609,9 +2469,8 @@
             "hospitals": true,
             "id": "recM5LLfmfGs6h4sz",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "oxygen": true,
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -2623,8 +2482,7 @@
             "id": "recM6qRAzWd8PTx3s",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -2636,7 +2494,6 @@
             "id": "recMG4q0RPmHu1JvU",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tripura"
         },
         {
@@ -2649,7 +2506,6 @@
             "id": "recMHuntzijPLhsxp",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -2662,7 +2518,6 @@
             "id": "recMRe8dnnVPoN1gA",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Andhra Pradesh"
         },
         {
@@ -2674,8 +2529,7 @@
             "hospitals": false,
             "id": "recMXux7OskjzCkB6",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Jharkhand"
         },
         {
@@ -2688,7 +2542,6 @@
             "id": "recMbAdy7vqUgT6pR",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Delhi (NCT)"
         },
         {
@@ -2701,7 +2554,6 @@
             "id": "recMcRflnXUjefkw6",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -2714,7 +2566,6 @@
             "id": "recMoTpMVsQU9fM4o",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -2727,7 +2578,6 @@
             "id": "recMzrA1edOuk4U99",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -2740,7 +2590,6 @@
             "id": "recNCi04NyLyaOYZF",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -2753,7 +2602,6 @@
             "id": "recNN3qpAGOxb7BYg",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -2766,8 +2614,7 @@
             "id": "recNSyWNqYUwszzjw",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -2779,7 +2626,6 @@
             "id": "recNX9SKk4a9pz9fZ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -2792,7 +2638,6 @@
             "id": "recNcTVvsUEBBCvZZ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -2805,7 +2650,6 @@
             "id": "recNdQcIOJ4md7wd9",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -2818,7 +2662,6 @@
             "id": "recNhjzfUWAFUCHu2",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Andhra Pradesh"
         },
         {
@@ -2830,9 +2673,8 @@
             "hospitals": true,
             "id": "recNlXpwCRXy5LRTQ",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "oxygen": true,
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -2844,7 +2686,6 @@
             "id": "recNvN86WbSyFKp8w",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Delhi (NCT)"
         },
         {
@@ -2857,7 +2698,6 @@
             "id": "recO3on6oZGiCXsF5",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -2870,7 +2710,6 @@
             "id": "recO6gGVybknWMsyw",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -2883,7 +2722,6 @@
             "id": "recOCovhfq63JsVgM",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -2896,7 +2734,6 @@
             "id": "recOF3TtKQhq18RFb",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -2909,7 +2746,6 @@
             "id": "recOG7F5v5gAuCKpD",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -2922,7 +2758,6 @@
             "id": "recOJn3acU43f2Ag3",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -2935,11 +2770,10 @@
             "id": "recOTa8o3bkkoDdeu",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
-            "ambulance": false,
+            "ambulance": true,
             "contact": true,
             "district": "Bhopal",
             "doctor": false,
@@ -2948,7 +2782,6 @@
             "id": "recOVLIL25jByL7TA",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -2961,7 +2794,6 @@
             "id": "recOVxXSk97pIB5RU",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -2974,7 +2806,6 @@
             "id": "recOYqfF6HbEelout",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -2987,7 +2818,6 @@
             "id": "recOdCTXQMJxmaM0y",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -3000,7 +2830,6 @@
             "id": "recOhGRSOt5FI7A2f",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -3013,7 +2842,6 @@
             "id": "recOnke1Rmetmdq4h",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -3026,7 +2854,6 @@
             "id": "recOo3oRJ5RAxIm3c",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -3039,8 +2866,7 @@
             "id": "recOuWOUYpdtQfW8C",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -3052,7 +2878,6 @@
             "id": "recOwoQZeQkQFoJqV",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -3065,7 +2890,6 @@
             "id": "recPHlKA398N9D2T9",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -3078,7 +2902,6 @@
             "id": "recPLc6svEVxdvvdj",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -3091,8 +2914,7 @@
             "id": "recPUFOCnReb4CCBu",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -3104,7 +2926,6 @@
             "id": "recPaZWzd1QHiUtgB",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -3117,7 +2938,6 @@
             "id": "recPbs1TgpMRxrSBm",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -3130,7 +2950,6 @@
             "id": "recPczrxnCvf5g30N",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -3143,7 +2962,6 @@
             "id": "recQ8NWYDxXpbKYoB",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -3156,7 +2974,6 @@
             "id": "recQDsr0PV5jIoEzE",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -3168,8 +2985,7 @@
             "hospitals": true,
             "id": "recQNUnjyh7ZrOCDV",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Karnataka"
         },
         {
@@ -3182,7 +2998,6 @@
             "id": "recQeKEbqHhvYy9ZM",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -3195,7 +3010,6 @@
             "id": "recQuBb2uiws53nkA",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -3208,7 +3022,6 @@
             "id": "recR3BUzPT3wrXt3S",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -3220,8 +3033,7 @@
             "hospitals": true,
             "id": "recR8vhGW4rN346NC",
             "medicine": true,
-            "oxygen": false,
-            "plasma": true,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -3234,7 +3046,6 @@
             "id": "recRBy0w4aR5vs3au",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -3247,7 +3058,6 @@
             "id": "recRFL2eZIZ0TIGFL",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttarakhand"
         },
         {
@@ -3260,8 +3070,7 @@
             "id": "recRIxbhhBz6wVPIT",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -3273,7 +3082,6 @@
             "id": "recRPIy5IBPE8KLku",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -3286,7 +3094,6 @@
             "id": "recRUlFnpYoczomCi",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Ladakh (UT)"
         },
         {
@@ -3299,7 +3106,6 @@
             "id": "recRaFpcKmc7P8xN9",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -3312,7 +3118,6 @@
             "id": "recRdOdtP3L6ZOtCb",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Delhi (NCT)"
         },
         {
@@ -3325,7 +3130,6 @@
             "id": "recRhfPDfUejTHWSR",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -3338,7 +3142,6 @@
             "id": "recRkipJBhapHxABG",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -3351,7 +3154,6 @@
             "id": "recRvmlwM1WXv8Nla",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -3364,7 +3166,6 @@
             "id": "recS46YC8uPBG6fVJ",
             "medicine": false,
             "oxygen": true,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -3377,7 +3178,6 @@
             "id": "recS6yPz0Z1L4RSgq",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Karnataka"
         },
         {
@@ -3390,7 +3190,6 @@
             "id": "recS7U8P9SMJ8Splt",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -3403,7 +3202,6 @@
             "id": "recS95Ftz39qgCPng",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -3415,9 +3213,8 @@
             "hospitals": false,
             "id": "recSLOxTtpXtfDlAK",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "oxygen": true,
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -3429,7 +3226,6 @@
             "id": "recSS11jtMqmtoHIm",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -3442,7 +3238,6 @@
             "id": "recSTwOMDyW6g7iVl",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -3455,7 +3250,6 @@
             "id": "recSaH5JN35d4NmvK",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Odisha"
         },
         {
@@ -3468,7 +3262,6 @@
             "id": "recScU3k1dwqS4893",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -3481,7 +3274,6 @@
             "id": "recSf663Y3PSzhMwb",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -3489,12 +3281,11 @@
             "contact": false,
             "district": "Mysuru (Mysore)",
             "doctor": false,
-            "helpline": false,
+            "helpline": true,
             "hospitals": true,
             "id": "recSjlLScpoll3ox9",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Karnataka"
         },
         {
@@ -3507,7 +3298,6 @@
             "id": "recSqkUFGqesZfrgw",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -3520,7 +3310,6 @@
             "id": "recSv9SfXXraKDOW5",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -3533,7 +3322,6 @@
             "id": "recT4DJVEdqHQ36TS",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttarakhand"
         },
         {
@@ -3546,7 +3334,6 @@
             "id": "recTBgd13e9Zg7FyS",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -3558,8 +3345,7 @@
             "hospitals": false,
             "id": "recTBlT8eS6ylvAGQ",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -3567,12 +3353,11 @@
             "contact": true,
             "district": "Burdwan (Bardhaman)",
             "doctor": false,
-            "helpline": false,
-            "hospitals": false,
+            "helpline": true,
+            "hospitals": true,
             "id": "recTIi1YNzkj9ZrIt",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "West Bengal"
         },
         {
@@ -3585,7 +3370,6 @@
             "id": "recTN8wLhcJM1jt4f",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -3598,7 +3382,6 @@
             "id": "recTQEdUhq8MsVroN",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -3611,7 +3394,6 @@
             "id": "recTSBF5ZzNwN4CfQ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -3624,7 +3406,6 @@
             "id": "recTXd911UbHQMRYa",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Dadra and Nagar Haveli and Daman & Diu (UT)"
         },
         {
@@ -3637,7 +3418,6 @@
             "id": "recTf9qBxYs7vIzqY",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -3650,7 +3430,6 @@
             "id": "recTmt1QdVS4nEyQJ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Meghalaya"
         },
         {
@@ -3662,8 +3441,7 @@
             "hospitals": true,
             "id": "recTvkXDFKJfJl6Rd",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Andhra Pradesh"
         },
         {
@@ -3676,8 +3454,7 @@
             "id": "recU3FcIakH4ZqDKq",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -3688,8 +3465,7 @@
             "hospitals": true,
             "id": "recU4SxeJ7yc1UtKk",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Andhra Pradesh"
         },
         {
@@ -3702,7 +3478,6 @@
             "id": "recU5xoHOn6l1RsBf",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Meghalaya"
         },
         {
@@ -3714,8 +3489,7 @@
             "hospitals": false,
             "id": "recUCqQJQLIUw5nvC",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Madhya Pradesh"
         },
         {
@@ -3728,7 +3502,6 @@
             "id": "recUCrAkDzFtPYKgX",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Dadra and Nagar Haveli and Daman & Diu (UT)"
         },
         {
@@ -3741,7 +3514,6 @@
             "id": "recUHXbBIh0UUSHRf",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Kerala"
         },
         {
@@ -3754,7 +3526,6 @@
             "id": "recUJcZqvfbTgxR39",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Meghalaya"
         },
         {
@@ -3766,8 +3537,7 @@
             "hospitals": false,
             "id": "recUN54IYCloFvLei",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Andhra Pradesh"
         },
         {
@@ -3780,7 +3550,6 @@
             "id": "recUjcLSRB8sGu8oS",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -3793,7 +3562,6 @@
             "id": "recUoPEpZ8GjDhN4V",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -3805,8 +3573,7 @@
             "hospitals": true,
             "id": "recUrflXwqNZrbN43",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -3819,7 +3586,6 @@
             "id": "recUykofTrQZhoPKH",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -3832,7 +3598,6 @@
             "id": "recV6sRA5xdTRjE5O",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -3845,7 +3610,6 @@
             "id": "recV9k7nj39hFK1jR",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -3857,8 +3621,7 @@
             "hospitals": true,
             "id": "recVEavAtvpJZe371",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -3871,7 +3634,6 @@
             "id": "recVFWcGFOm1kqt10",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -3884,7 +3646,6 @@
             "id": "recVHJigPoXc0ar9r",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Andaman and Nicobar Islands (UT)"
         },
         {
@@ -3897,7 +3658,6 @@
             "id": "recVJoji7ME0FTs7X",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -3910,7 +3670,6 @@
             "id": "recVNZdW22qy9VsXb",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -3923,7 +3682,6 @@
             "id": "recVPi6w04aeHEHPy",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -3936,7 +3694,6 @@
             "id": "recVfT8ge3l0NJVlB",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -3949,7 +3706,6 @@
             "id": "recVq3qCenz6KeQE9",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -3962,7 +3718,6 @@
             "id": "recVqiIkwPGzvrtnj",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -3975,7 +3730,6 @@
             "id": "recW1IP1PQxCpiGLT",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -3988,7 +3742,6 @@
             "id": "recW2cM337Bm2gg0z",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -4001,7 +3754,6 @@
             "id": "recWMcgAAPr4Q6uk4",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -4013,8 +3765,7 @@
             "hospitals": false,
             "id": "recWay9oa7I4cYIBi",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -4027,7 +3778,6 @@
             "id": "recWcJSn798K6cpc4",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Karnataka"
         },
         {
@@ -4040,7 +3790,6 @@
             "id": "recWfgK2jYK8AMfvZ",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -4053,7 +3802,6 @@
             "id": "recWl62EiYdoREP70",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -4066,7 +3814,6 @@
             "id": "recWpHhVzyFwzsSAq",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -4079,7 +3826,6 @@
             "id": "recWrKaFo8yZmfR4g",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -4092,7 +3838,6 @@
             "id": "recX16sSNMmW1tM44",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -4105,7 +3850,6 @@
             "id": "recXMx6jxJViIO5xB",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -4117,8 +3861,7 @@
             "hospitals": false,
             "id": "recXRE8M07lwtsUa8",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -4131,7 +3874,6 @@
             "id": "recXRu5VdVfsFh8A3",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -4144,7 +3886,6 @@
             "id": "recXTlu46ZBE7QbR6",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -4157,7 +3898,6 @@
             "id": "recXXXD3ZUy6GqvS5",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -4170,7 +3910,6 @@
             "id": "recXe5RdhctuEOel8",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -4183,7 +3922,6 @@
             "id": "recXfHZiwDVUUlztN",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -4196,7 +3934,6 @@
             "id": "recXtAKavrUyXKy7N",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Chandigarh (UT)"
         },
         {
@@ -4209,7 +3946,6 @@
             "id": "recY8UkioOu4dPQJt",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Goa"
         },
         {
@@ -4222,7 +3958,6 @@
             "id": "recYSfKUHcBg3uGHW",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Meghalaya"
         },
         {
@@ -4235,7 +3970,6 @@
             "id": "recYXVG86sj1KcFhA",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -4248,7 +3982,6 @@
             "id": "recYf4xSPsoAHVqmV",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -4260,9 +3993,8 @@
             "hospitals": false,
             "id": "recYgfdJXSGqRQkdD",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "oxygen": true,
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -4273,8 +4005,7 @@
             "hospitals": false,
             "id": "recYmRWWvJCRJT9EW",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
         },
         {
@@ -4287,7 +4018,6 @@
             "id": "recYmTwgsvoSA08IA",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -4300,7 +4030,6 @@
             "id": "recYwbVc7bT0j70Wz",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -4312,8 +4041,7 @@
             "hospitals": false,
             "id": "recYyKi4cgncuUBx0",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -4326,7 +4054,6 @@
             "id": "recZ2avyu5NNvVd30",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -4339,7 +4066,6 @@
             "id": "recZCky5lSizRWbBk",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -4352,7 +4078,6 @@
             "id": "recZEyZ50ovHQXbLy",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -4365,7 +4090,6 @@
             "id": "recZG3KiZjvVXawyO",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -4378,7 +4102,6 @@
             "id": "recZSBWcZMX2SmH1c",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -4391,11 +4114,10 @@
             "id": "reca07AIvLIgRteby",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
-            "ambulance": false,
+            "ambulance": true,
             "contact": false,
             "district": "Surat",
             "doctor": false,
@@ -4404,8 +4126,7 @@
             "id": "reca1Tvtdgs9VInXs",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -4417,7 +4138,6 @@
             "id": "reca3aEvM8S3Z3vdq",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -4430,7 +4150,6 @@
             "id": "reca79EhF6WcGTCA8",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Sikkim"
         },
         {
@@ -4439,11 +4158,10 @@
             "district": "North 24 Parganas",
             "doctor": false,
             "helpline": false,
-            "hospitals": false,
+            "hospitals": true,
             "id": "recaDVN8l0q1f7OsB",
-            "medicine": false,
+            "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -4456,7 +4174,6 @@
             "id": "recaT8JAkWAP47rte",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -4469,7 +4186,6 @@
             "id": "recaVHgKD2d0efqQi",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -4482,7 +4198,6 @@
             "id": "recaWgPn6a2sKuc23",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -4494,8 +4209,7 @@
             "hospitals": true,
             "id": "recagrxQqhK5kjq0J",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
         },
         {
@@ -4507,9 +4221,8 @@
             "hospitals": true,
             "id": "recapUJBwcKj4CoMg",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "oxygen": true,
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -4521,7 +4234,6 @@
             "id": "recb2j2n7Dd7IbbDn",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -4534,7 +4246,6 @@
             "id": "recb8N48XIR0g1rwo",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -4547,7 +4258,6 @@
             "id": "recbF5h00IP0u59V6",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tripura"
         },
         {
@@ -4560,7 +4270,6 @@
             "id": "recbYotBY6r5OdXqU",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -4572,8 +4281,7 @@
             "hospitals": false,
             "id": "recbeD3hKAcBDumwc",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Andhra Pradesh"
         },
         {
@@ -4586,7 +4294,6 @@
             "id": "recbl3C6YPciCbxmP",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Kerala"
         },
         {
@@ -4598,8 +4305,7 @@
             "hospitals": true,
             "id": "recbnAG7CK7FPA3Si",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Telangana"
         },
         {
@@ -4612,7 +4318,6 @@
             "id": "recboiaKHHjQSUMCW",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttarakhand"
         },
         {
@@ -4625,8 +4330,7 @@
             "id": "recc5Css43NJ9EwPM",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -4638,7 +4342,6 @@
             "id": "reccCIfViLk3pHlFb",
             "medicine": false,
             "oxygen": true,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -4651,7 +4354,6 @@
             "id": "reccF2DNU33A79lyD",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -4664,7 +4366,6 @@
             "id": "reccTyMmP5loKmvVo",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -4677,7 +4378,6 @@
             "id": "reccU3gjluePFNuCT",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -4690,7 +4390,6 @@
             "id": "reccUMuXU5WIW5vVA",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -4703,7 +4402,6 @@
             "id": "reccWpE9HQ17OJJb1",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -4716,7 +4414,6 @@
             "id": "reccqFwwRBJFnP3Gs",
             "medicine": false,
             "oxygen": true,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -4729,7 +4426,6 @@
             "id": "reccwQ2e3ukCdNZmG",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Meghalaya"
         },
         {
@@ -4742,7 +4438,6 @@
             "id": "recd67tdpsgr9tB7U",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -4755,7 +4450,6 @@
             "id": "recd9lwFtbZXaulfV",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -4768,7 +4462,6 @@
             "id": "recdAkiliHVkCLMKz",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -4781,8 +4474,19 @@
             "id": "recdEwHm760m8m3pV",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Koppal",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": false,
+            "id": "recdFd6v4FQQYIInG",
+            "medicine": false,
+            "oxygen": true,
+            "state": "Karnataka"
         },
         {
             "ambulance": false,
@@ -4794,7 +4498,6 @@
             "id": "recdHgll0b4AFOJ5e",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -4807,7 +4510,6 @@
             "id": "recdN3VVLAb6VhKy2",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -4819,8 +4521,7 @@
             "hospitals": false,
             "id": "recdND2Ew4n16QFcf",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
         },
         {
@@ -4833,7 +4534,6 @@
             "id": "recdSrcgdmki5dJ3B",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -4846,7 +4546,6 @@
             "id": "recdVXPdrsIQYbTyW",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -4858,8 +4557,7 @@
             "hospitals": false,
             "id": "recdVdQ9dzbz7yR8e",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -4872,7 +4570,6 @@
             "id": "recdjBXFw59rifnKP",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Andhra Pradesh"
         },
         {
@@ -4885,7 +4582,6 @@
             "id": "recdmNvID5wiW3eZa",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Delhi (NCT)"
         },
         {
@@ -4898,7 +4594,6 @@
             "id": "recdvNwb9RKifCZ0l",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -4911,7 +4606,6 @@
             "id": "rece0Rx3EXiziEU6T",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -4924,7 +4618,6 @@
             "id": "rece44Ghye1I76Ds0",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -4937,7 +4630,6 @@
             "id": "rece737eqdFTUiOK6",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -4949,8 +4641,7 @@
             "hospitals": false,
             "id": "rece9ucpeFTnNMDLI",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Andhra Pradesh"
         },
         {
@@ -4963,7 +4654,6 @@
             "id": "receBxxs5LHTOEAuB",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -4976,7 +4666,6 @@
             "id": "receLf0MQO2sKALkx",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -4989,7 +4678,6 @@
             "id": "receUT3XtmGf49iSx",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -5002,7 +4690,6 @@
             "id": "receVk8AtUyEptQcF",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Delhi (NCT)"
         },
         {
@@ -5015,7 +4702,6 @@
             "id": "recekgBaBPpN3aerh",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -5028,7 +4714,6 @@
             "id": "receuNYPpaVq93F9F",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -5041,7 +4726,6 @@
             "id": "recf0GGMqcMvPruKS",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -5054,7 +4738,6 @@
             "id": "recf5CDqVHUZKV7PC",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -5067,7 +4750,6 @@
             "id": "recfBa9BejA895O3P",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -5080,7 +4762,6 @@
             "id": "recfGRw2PyyQNQXzk",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -5093,7 +4774,6 @@
             "id": "recfINEevHbs6EMUd",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -5106,8 +4786,7 @@
             "id": "recfL8dLl2my4O4MQ",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -5118,8 +4797,7 @@
             "hospitals": true,
             "id": "recfSOruRUB8UjwbG",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -5132,7 +4810,6 @@
             "id": "recfdUILnkfFQlPUa",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -5144,8 +4821,7 @@
             "hospitals": false,
             "id": "recff3xOVt77JrcKX",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Assam"
         },
         {
@@ -5158,7 +4834,6 @@
             "id": "recfmIcZAnXpkpHNz",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -5171,7 +4846,6 @@
             "id": "recfoM49MNnGxCHoM",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -5184,7 +4858,6 @@
             "id": "recfqwu7y60Bd1bxC",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -5196,8 +4869,7 @@
             "hospitals": false,
             "id": "recfxWju5cQRC17gH",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
         },
         {
@@ -5210,7 +4882,6 @@
             "id": "recg1qGmvpvQ1mbJf",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -5223,7 +4894,6 @@
             "id": "recgCfgDDlD2i0RXT",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -5236,7 +4906,6 @@
             "id": "recgDgoW1RNPfcjo4",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -5249,7 +4918,6 @@
             "id": "recgFh9KvYVaIlp3O",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Kerala"
         },
         {
@@ -5262,7 +4930,6 @@
             "id": "recgJQATavJXLdeeD",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -5275,7 +4942,6 @@
             "id": "recgM9ecS65o1spJE",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -5288,7 +4954,6 @@
             "id": "recgO0V0Vi4Pln3rA",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -5301,7 +4966,6 @@
             "id": "recgQmnFBT1oLw8ki",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -5314,7 +4978,6 @@
             "id": "recgTO3COf6PQstWM",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -5326,9 +4989,20 @@
             "hospitals": false,
             "id": "recgUCswa7ZUmS9Av",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "oxygen": true,
+            "state": "Gujarat"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Ballari (Bellary)",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": false,
+            "id": "recggAhYtl3MSuVNe",
+            "medicine": false,
+            "oxygen": true,
+            "state": "Karnataka"
         },
         {
             "ambulance": false,
@@ -5340,7 +5014,6 @@
             "id": "recggnAMIs4bMNYkl",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -5353,7 +5026,6 @@
             "id": "recgisNUWgHEQDXlI",
             "medicine": false,
             "oxygen": true,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -5365,8 +5037,7 @@
             "hospitals": true,
             "id": "recglmVHpbgcLQZ85",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -5379,7 +5050,6 @@
             "id": "recgsAQx3mKPpXeST",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -5391,9 +5061,8 @@
             "hospitals": true,
             "id": "recgt8eDvLucDCDVE",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "oxygen": true,
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -5404,8 +5073,7 @@
             "hospitals": false,
             "id": "rech0lsnt4snrsRpb",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -5418,7 +5086,6 @@
             "id": "rech3GkIvpRRWFXSk",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -5431,7 +5098,6 @@
             "id": "rech7PBcDOqfQK1YH",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -5444,7 +5110,6 @@
             "id": "rechAasKgspzFJ34d",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -5457,7 +5122,6 @@
             "id": "rechIJIKP4JvMikkF",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -5470,7 +5134,6 @@
             "id": "rechK3utZcCpTTmiw",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -5483,7 +5146,6 @@
             "id": "rechMf9V5WcJ8YLdU",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -5495,8 +5157,7 @@
             "hospitals": false,
             "id": "rechlmAgxzXu95bu4",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Assam"
         },
         {
@@ -5509,7 +5170,6 @@
             "id": "rechwTno7moDiNZSy",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -5522,7 +5182,6 @@
             "id": "rechxwjvZhuomO54l",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -5535,7 +5194,6 @@
             "id": "reci8D5QbgoFSBMgE",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -5547,9 +5205,20 @@
             "hospitals": true,
             "id": "reci9xKnkR5ag8W9s",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Khordha",
+            "doctor": false,
+            "helpline": true,
+            "hospitals": false,
+            "id": "reciC09mh14Gmeb8s",
+            "medicine": false,
+            "oxygen": true,
+            "state": "Odisha"
         },
         {
             "ambulance": false,
@@ -5561,8 +5230,19 @@
             "id": "reciI9GeerypL88c7",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Sikkim"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Aravalli",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": false,
+            "id": "reciKhC9iRAwABiTi",
+            "medicine": false,
+            "oxygen": true,
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -5574,7 +5254,6 @@
             "id": "reciLJKsHhU948pPN",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -5587,7 +5266,6 @@
             "id": "reciO9TrxCOj3eTeU",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -5600,7 +5278,6 @@
             "id": "reciRiKOAnWIZlcbY",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -5613,20 +5290,18 @@
             "id": "reciU6ztFc1vHz57l",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
-            "ambulance": false,
+            "ambulance": true,
             "contact": true,
             "district": "Ratlam",
-            "doctor": false,
+            "doctor": true,
             "helpline": true,
-            "hospitals": false,
+            "hospitals": true,
             "id": "reciaOMGoWTtMI8w8",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -5639,7 +5314,6 @@
             "id": "recip3Va1ugDr6rXP",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -5652,7 +5326,6 @@
             "id": "reciyJQi7r6OlpK3p",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -5664,8 +5337,7 @@
             "hospitals": false,
             "id": "recj1QkBfppvx1bPN",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Bihar"
         },
         {
@@ -5678,7 +5350,6 @@
             "id": "recj9Ysow45NSXj6i",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -5691,7 +5362,6 @@
             "id": "recjA6O3tJQwWs2ji",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -5704,7 +5374,6 @@
             "id": "recjEY6aqHJ5vxfd6",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -5715,9 +5384,8 @@
             "helpline": true,
             "hospitals": false,
             "id": "recjF7fAHjxm0sPox",
-            "medicine": false,
+            "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -5730,7 +5398,6 @@
             "id": "recjI0kqZRCXvWChI",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -5743,7 +5410,6 @@
             "id": "recjWuTfq9u1upxmE",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Ladakh (UT)"
         },
         {
@@ -5756,7 +5422,6 @@
             "id": "recjkk8VrdsR7Dw3c",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Karnataka"
         },
         {
@@ -5769,7 +5434,6 @@
             "id": "recjo4REgNm2jR83V",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -5782,7 +5446,6 @@
             "id": "recjpsLBNUfwhetRA",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttarakhand"
         },
         {
@@ -5795,7 +5458,6 @@
             "id": "recjqwlpF0DOqhTSo",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Karnataka"
         },
         {
@@ -5808,7 +5470,6 @@
             "id": "recjw1mdegFtzzhI1",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -5820,8 +5481,7 @@
             "hospitals": false,
             "id": "reck2MxteXpZMZWJ2",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Puducherry (UT)"
         },
         {
@@ -5834,7 +5494,6 @@
             "id": "reck98mRy9hiUar0m",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -5847,7 +5506,6 @@
             "id": "reckA0rkPdjnO8aAb",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -5860,7 +5518,6 @@
             "id": "reckC8JvaocH5DZEZ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -5873,7 +5530,6 @@
             "id": "reckCKW1H9QAjRZqy",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -5886,7 +5542,6 @@
             "id": "reckFbxZ5VpkVgdHF",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -5899,7 +5554,6 @@
             "id": "reckMQ0MTSJgHEVN6",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -5912,7 +5566,6 @@
             "id": "reckONyMVD05OP7nr",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Nagaland"
         },
         {
@@ -5925,7 +5578,6 @@
             "id": "reckTBsJyLlOS4BN9",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -5938,7 +5590,6 @@
             "id": "reckY2ryKIBBExTDr",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -5951,7 +5602,6 @@
             "id": "reckd2zxRdjH1qAbs",
             "medicine": false,
             "oxygen": true,
-            "plasma": false,
             "state": "Delhi (NCT)"
         },
         {
@@ -5963,8 +5613,7 @@
             "hospitals": true,
             "id": "reckiJJXQ6iiUIvOy",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -5977,7 +5626,6 @@
             "id": "reckk2ag46ztcMTsu",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -5989,8 +5637,7 @@
             "hospitals": true,
             "id": "reckpoV16TapsNNc9",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Rajasthan"
         },
         {
@@ -6003,7 +5650,6 @@
             "id": "recks0AWAVyPmDqvU",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -6016,7 +5662,6 @@
             "id": "recl8ZKYAwL6DRUXS",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -6029,7 +5674,6 @@
             "id": "reclPCX8bFftRap98",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -6042,7 +5686,6 @@
             "id": "recletiHCVvwA0nFe",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -6055,7 +5698,6 @@
             "id": "reclfIpQXBBnDUGrb",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -6068,8 +5710,7 @@
             "id": "reclnxAqZRYM7Aagl",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -6081,7 +5722,6 @@
             "id": "recls1Y5Nzk7ekaCK",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Meghalaya"
         },
         {
@@ -6094,7 +5734,6 @@
             "id": "reclusxOfcjFbtyeW",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Puducherry (UT)"
         },
         {
@@ -6106,8 +5745,7 @@
             "hospitals": false,
             "id": "reclvCRnyhkFv3mJC",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Chhattisgarh"
         },
         {
@@ -6120,7 +5758,6 @@
             "id": "reclvyGwOhGg757aC",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Nagaland"
         },
         {
@@ -6132,8 +5769,7 @@
             "hospitals": false,
             "id": "recm24190faWRiIEQ",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
         },
         {
@@ -6146,7 +5782,6 @@
             "id": "recm81QRq3x9n4fAs",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -6159,7 +5794,6 @@
             "id": "recmBp1G7ZG0BItP0",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -6172,7 +5806,6 @@
             "id": "recmL1VdfdMQoUrUQ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -6185,7 +5818,6 @@
             "id": "recmQdq0juukNN6Mb",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -6198,7 +5830,6 @@
             "id": "recmRH3mZ7WNNtRwX",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -6210,8 +5841,7 @@
             "hospitals": false,
             "id": "recmS2qUb2XtjT88C",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Assam"
         },
         {
@@ -6224,7 +5854,6 @@
             "id": "recmiP0V37AyfbADM",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -6237,8 +5866,19 @@
             "id": "recmisj7qOSNrfrQa",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Dakshina Kannada",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": false,
+            "id": "recmkn3iDUEYtNZUb",
+            "medicine": false,
+            "oxygen": true,
+            "state": "Karnataka"
         },
         {
             "ambulance": false,
@@ -6250,7 +5890,6 @@
             "id": "recmqEjQ5miNBKgEN",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -6263,7 +5902,6 @@
             "id": "recmwjnjpg3QxBpjY",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -6276,7 +5914,6 @@
             "id": "recnBKTO1XAivoVq3",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -6289,7 +5926,6 @@
             "id": "recnGLBhTqDuoA9Cl",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -6301,8 +5937,7 @@
             "hospitals": false,
             "id": "recnJnyRw5EWBWWXY",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Delhi (NCT)"
         },
         {
@@ -6315,7 +5950,6 @@
             "id": "recnWdSaFC6l4IYH6",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -6328,7 +5962,6 @@
             "id": "recnZuqPemZAJZwpt",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -6341,7 +5974,6 @@
             "id": "recnb16S7OkoCbSYd",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -6354,7 +5986,6 @@
             "id": "recno52fcS87nRRO9",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -6367,7 +5998,6 @@
             "id": "reco0GgVgQUcLW92n",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -6379,8 +6009,7 @@
             "hospitals": false,
             "id": "reco1Bwut2kHZe5sf",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -6393,7 +6022,6 @@
             "id": "reco3jdYPaVRQwWW2",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -6405,8 +6033,7 @@
             "hospitals": true,
             "id": "recoJSl9mRRt95CsY",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Karnataka"
         },
         {
@@ -6419,7 +6046,6 @@
             "id": "recoUfWCQgpriNira",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -6432,7 +6058,6 @@
             "id": "recoXkDBzWAqeNSPf",
             "medicine": false,
             "oxygen": true,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -6445,7 +6070,6 @@
             "id": "recofnotIen3kO8Uk",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -6458,7 +6082,6 @@
             "id": "recomPcquisnbMfcR",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -6471,7 +6094,6 @@
             "id": "recozeItGFp6xx7dI",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -6483,8 +6105,7 @@
             "hospitals": false,
             "id": "recp0lyilVVHlF1KP",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Goa"
         },
         {
@@ -6497,7 +6118,6 @@
             "id": "recpBjaOUiMZ87yVG",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -6510,7 +6130,6 @@
             "id": "recpHKo4BiXfKYQu3",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -6523,7 +6142,6 @@
             "id": "recpMf8FvhM27Jdj8",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -6536,11 +6154,10 @@
             "id": "recpUhGmS2F8p8ul2",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
-            "ambulance": false,
+            "ambulance": true,
             "contact": false,
             "district": "Saharanpur",
             "doctor": false,
@@ -6549,7 +6166,6 @@
             "id": "recpUoqUjESG1qDdQ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -6562,7 +6178,6 @@
             "id": "recpbHpkDPjjYr1Sj",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -6575,7 +6190,6 @@
             "id": "recpbsQiMzVN1jOLb",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -6588,7 +6202,6 @@
             "id": "recpoS0E3ouzR72l1",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -6601,8 +6214,7 @@
             "id": "recpz3EZtuhMf7cq7",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -6614,7 +6226,6 @@
             "id": "recq0sEbUV3QYT8bF",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -6627,8 +6238,7 @@
             "id": "recq5YVEZHBEwS2MT",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -6640,7 +6250,6 @@
             "id": "recq92xZ1dzcihhWw",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -6653,7 +6262,6 @@
             "id": "recq9wpWvD2BCbixr",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -6666,7 +6274,6 @@
             "id": "recqCuVXgVmQUQUDF",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -6679,7 +6286,6 @@
             "id": "recqEdGMxt4r7Kkm3",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -6692,7 +6298,6 @@
             "id": "recqGMGp9kFHdpCIY",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -6705,7 +6310,6 @@
             "id": "recqKjD7bDhVOS1ZN",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -6717,8 +6321,7 @@
             "hospitals": false,
             "id": "recqUbBLuCFSZ4CE6",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -6731,7 +6334,6 @@
             "id": "recqY6QiPJmozHNgd",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -6743,8 +6345,7 @@
             "hospitals": true,
             "id": "recqnfPXsnkIIqZ5I",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -6757,7 +6358,6 @@
             "id": "recqrFW4qZlxvmypO",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -6770,7 +6370,6 @@
             "id": "recqtMT9sSyW5Hlms",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -6783,7 +6382,6 @@
             "id": "recqtb7gJCYvTenQS",
             "medicine": true,
             "oxygen": true,
-            "plasma": true,
             "state": "Punjab"
         },
         {
@@ -6796,7 +6394,6 @@
             "id": "recquw03dduCkoAaM",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Sikkim"
         },
         {
@@ -6809,7 +6406,6 @@
             "id": "recqvGOZkBELIAGfq",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -6822,7 +6418,6 @@
             "id": "recr46OgpvPL6bVO9",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -6835,7 +6430,6 @@
             "id": "recrBu7lUDTraqJGq",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Delhi (NCT)"
         },
         {
@@ -6848,7 +6442,6 @@
             "id": "recrLa44cBLQeqfUv",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -6860,8 +6453,7 @@
             "hospitals": false,
             "id": "recraJpu4fgW3H4mm",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
         },
         {
@@ -6874,7 +6466,6 @@
             "id": "recreouuW4eQHbXRN",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Odisha"
         },
         {
@@ -6887,7 +6478,6 @@
             "id": "recrkoDgs31UTbwu7",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -6900,7 +6490,6 @@
             "id": "recrrB2sBDLMohH0d",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttarakhand"
         },
         {
@@ -6913,7 +6502,6 @@
             "id": "recsOapyGt1Pj3c9V",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tamil Nadu"
         },
         {
@@ -6926,7 +6514,6 @@
             "id": "recsY3piAe6zVtH2C",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -6938,8 +6525,7 @@
             "hospitals": false,
             "id": "recsZMRpRVkmZgDw9",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -6952,7 +6538,6 @@
             "id": "rect1HDBVJVGZbMmd",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -6964,8 +6549,7 @@
             "hospitals": true,
             "id": "rect98TzdwRUr7C3o",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -6978,7 +6562,6 @@
             "id": "rect9LaBp6BeNRmRA",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -6991,7 +6574,6 @@
             "id": "rectH5QVTb9yIQ1od",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Rajasthan"
         },
         {
@@ -7003,8 +6585,7 @@
             "hospitals": false,
             "id": "rectHF8FFOjM0JkCb",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Haryana"
         },
         {
@@ -7017,7 +6598,6 @@
             "id": "rectNM5HGi6S0OdH7",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -7030,7 +6610,6 @@
             "id": "rectSpgnCCINDwfoi",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -7043,7 +6622,6 @@
             "id": "rectVLSYGeWRXmwzd",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -7056,7 +6634,6 @@
             "id": "rectYzHkIiMDsNkiT",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -7068,8 +6645,7 @@
             "hospitals": false,
             "id": "rectijVV9ApXBF1rq",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Haryana"
         },
         {
@@ -7082,7 +6658,6 @@
             "id": "rectw4LhqVzZ7VIZ9",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Karnataka"
         },
         {
@@ -7095,7 +6670,6 @@
             "id": "rectxMP51mXuxfltw",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -7108,7 +6682,6 @@
             "id": "recu275xekoI9B5T3",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Maharashtra"
         },
         {
@@ -7121,7 +6694,6 @@
             "id": "recu3nVB6PIck3hhq",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -7133,8 +6705,7 @@
             "hospitals": true,
             "id": "recu6CwOK2p6cBq89",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Haryana"
         },
         {
@@ -7147,7 +6718,6 @@
             "id": "recu72kgQZrUSrxsx",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -7159,8 +6729,7 @@
             "hospitals": false,
             "id": "recu94LnJoNSI2oeq",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Karnataka"
         },
         {
@@ -7173,7 +6742,6 @@
             "id": "recuAJJTUGVPjy8dW",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Meghalaya"
         },
         {
@@ -7186,7 +6754,6 @@
             "id": "recuImMBKSE3yU0mQ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -7199,7 +6766,6 @@
             "id": "recuO2xRHteuoAIG2",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -7212,7 +6778,6 @@
             "id": "recuTjDCFKdu4QfEF",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -7225,7 +6790,6 @@
             "id": "recucIKX1NgdaPWAm",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttarakhand"
         },
         {
@@ -7238,7 +6802,6 @@
             "id": "recusmyoqOM7CxfbG",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -7251,7 +6814,6 @@
             "id": "recuwzy0bQuLheqmN",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -7264,7 +6826,6 @@
             "id": "recv07mW1mG49b7xK",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Meghalaya"
         },
         {
@@ -7276,8 +6837,7 @@
             "hospitals": false,
             "id": "recv0FPlON0uN0xax",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
         },
         {
@@ -7289,9 +6849,8 @@
             "hospitals": true,
             "id": "recv0mmd0V7oGP5D1",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
-            "state": "Punjab"
+            "oxygen": true,
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -7303,7 +6862,6 @@
             "id": "recv9W8QdbchwbWvZ",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -7316,7 +6874,6 @@
             "id": "recv9eeWcqthFpdDk",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -7329,8 +6886,19 @@
             "id": "recvAfuyLkz1vU1Wy",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Ahmedabad",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": true,
+            "id": "recvKD483saWMuMqq",
+            "medicine": false,
+            "oxygen": true,
+            "state": "Gujarat"
         },
         {
             "ambulance": false,
@@ -7342,7 +6910,6 @@
             "id": "recvN4Har18LicEiz",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -7355,7 +6922,6 @@
             "id": "recvXjSgxZaMJJSJ2",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -7367,8 +6933,7 @@
             "hospitals": false,
             "id": "recvfXu3Odwmq52Em",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -7381,7 +6946,6 @@
             "id": "recvkD02DIjlvjHoh",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -7393,8 +6957,7 @@
             "hospitals": false,
             "id": "recvtTLJqYnNaykCg",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
         },
         {
@@ -7407,7 +6970,6 @@
             "id": "recvwcbSg9oVTq7pA",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -7419,8 +6981,7 @@
             "hospitals": true,
             "id": "recwDQjJ1gYYH1QOV",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Andhra Pradesh"
         },
         {
@@ -7433,7 +6994,6 @@
             "id": "recwM7ZgPBgnUSSUe",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -7446,7 +7006,6 @@
             "id": "recwS3C9MTO1o3EQz",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -7459,7 +7018,6 @@
             "id": "recwU21SysFEFGEup",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -7472,7 +7030,6 @@
             "id": "recwUBCuLbw2hvy5y",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -7485,7 +7042,6 @@
             "id": "recwWojH2xH7OJPWS",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         },
         {
@@ -7498,7 +7054,6 @@
             "id": "recwdCgEogvz8nge9",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -7511,7 +7066,6 @@
             "id": "recwdWde4MESLp0B6",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -7523,8 +7077,7 @@
             "hospitals": false,
             "id": "recwgBiZNSJmDNxw7",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Madhya Pradesh"
         },
         {
@@ -7536,8 +7089,7 @@
             "hospitals": true,
             "id": "recwgBpEUjiwoO3Xp",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -7550,7 +7102,6 @@
             "id": "recwhJ3kWCiDQXrr7",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -7563,7 +7114,6 @@
             "id": "recwlxei5fFFb6Wgd",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -7576,7 +7126,6 @@
             "id": "recwre9SYsnbDqqLh",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Manipur"
         },
         {
@@ -7589,7 +7138,6 @@
             "id": "recwx3mrH7TYpU3VR",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -7601,8 +7149,7 @@
             "hospitals": false,
             "id": "recxCXNeLMO9p0R3P",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Assam"
         },
         {
@@ -7614,8 +7161,7 @@
             "hospitals": false,
             "id": "recxUPe2MKqo5BCNL",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Arunachal Pradesh"
         },
         {
@@ -7627,8 +7173,7 @@
             "hospitals": false,
             "id": "recxUevCJXgO1sLYL",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Assam"
         },
         {
@@ -7640,8 +7185,7 @@
             "hospitals": false,
             "id": "recxW9ku9cFMoPHd0",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -7654,7 +7198,6 @@
             "id": "recxY4fjhtTkGrp44",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -7667,7 +7210,6 @@
             "id": "recxYCb8ed55RvZ9a",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -7680,7 +7222,6 @@
             "id": "recxjqvTQhnAMZPvp",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -7692,8 +7233,7 @@
             "hospitals": true,
             "id": "recy0cr9DMShFyEmz",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Kerala"
         },
         {
@@ -7705,8 +7245,7 @@
             "hospitals": false,
             "id": "recy6awAiEXgLPdvy",
             "medicine": true,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Maharashtra"
         },
         {
@@ -7719,7 +7258,6 @@
             "id": "recy82D5DRE5gXpOG",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Chhattisgarh"
         },
         {
@@ -7732,7 +7270,6 @@
             "id": "recy9w6ugfwSgedfp",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -7745,7 +7282,6 @@
             "id": "recyEs7hLM8vf6l7b",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
         },
         {
@@ -7758,7 +7294,6 @@
             "id": "recyHmoMBYR8P4MUw",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Assam"
         },
         {
@@ -7771,7 +7306,6 @@
             "id": "recyJfFL92esC1Pda",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jammu & Kashmir (UT)"
         },
         {
@@ -7784,7 +7318,6 @@
             "id": "recycTQHivBYr2Pws",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "West Bengal"
         },
         {
@@ -7797,7 +7330,6 @@
             "id": "recyf2d7sRKTqE7JY",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Haryana"
         },
         {
@@ -7810,7 +7342,6 @@
             "id": "recygRsl52I8qbgI0",
             "medicine": true,
             "oxygen": true,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -7822,9 +7353,20 @@
             "hospitals": false,
             "id": "recyiGQAnBvZwQ7uU",
             "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "oxygen": true,
             "state": "Tamil Nadu"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Tumakuru (Tumkur)",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": false,
+            "id": "recyu28mfSpcGfI3u",
+            "medicine": false,
+            "oxygen": true,
+            "state": "Karnataka"
         },
         {
             "ambulance": false,
@@ -7836,7 +7378,6 @@
             "id": "recz73V9xC6DbtOZc",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Puducherry (UT)"
         },
         {
@@ -7849,7 +7390,6 @@
             "id": "reczEYB3UTNzXi47n",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Punjab"
         },
         {
@@ -7862,8 +7402,19 @@
             "id": "reczHKk8c6sOdcN0X",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Telangana"
+        },
+        {
+            "ambulance": false,
+            "contact": false,
+            "district": "Mandi",
+            "doctor": false,
+            "helpline": false,
+            "hospitals": false,
+            "id": "reczKxTTvMlSeeBSu",
+            "medicine": false,
+            "oxygen": true,
+            "state": "Himachal Pradesh"
         },
         {
             "ambulance": false,
@@ -7875,7 +7426,6 @@
             "id": "reczQfxytg1uNlitx",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Bihar"
         },
         {
@@ -7888,20 +7438,18 @@
             "id": "reczc7ItheFjCIz5y",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Tripura"
         },
         {
             "ambulance": false,
             "contact": false,
-            "district": "Gautam Buddha Nagar",
+            "district": "Sangli",
             "doctor": false,
             "helpline": true,
             "hospitals": true,
             "id": "reczp1CKsOSqcz512",
-            "medicine": false,
-            "oxygen": false,
-            "plasma": false,
+            "medicine": true,
+            "oxygen": true,
             "state": "Uttar Pradesh"
         },
         {
@@ -7914,7 +7462,6 @@
             "id": "reczrCYuO3PS2Ww29",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Uttar Pradesh"
         },
         {
@@ -7927,7 +7474,6 @@
             "id": "reczyR66uNFFtgmGj",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Jharkhand"
         },
         {
@@ -7940,7 +7486,6 @@
             "id": "reczz88p4tlWnaBg8",
             "medicine": true,
             "oxygen": false,
-            "plasma": false,
             "state": "Madhya Pradesh"
         },
         {
@@ -7953,7 +7498,6 @@
             "id": "reczzuvORi68LeiLD",
             "medicine": false,
             "oxygen": false,
-            "plasma": false,
             "state": "Arunachal Pradesh"
         }
     ]

@@ -1,14 +1,24 @@
+const defaultTheme = require('tailwindcss/defaultTheme');
+
 module.exports = {
+    mode: 'jit',
     purge: [
         './pages/**/*.{js,jsx,ts,tsx}',
         './lib/**/*.{js,jsx,ts,tsx}',
         './layouts/**/*.{js,jsx,ts,tsx}',
         './components/**/*.{js,jsx,ts,tsx}',
-        './public/index.html'
+        './components/*.{js,jsx,ts,tsx}'
     ],
     darkMode: 'class',
     theme: {
         extend: {
+            transitionProperty: {
+                'height': 'height'
+            },
+            screens: {
+                xs: '520px',
+                ...defaultTheme.screens
+            },
             fontFamily: {
                 inter:
                     'Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";'
@@ -50,7 +60,56 @@ module.exports = {
                     900: '#453C52',
                     1000: '#1F2937',
                     1100: '#111827',
-                    1200: '#192030'
+                    1200: '#192030',
+                    1300: '#131a29'
+                }
+            },
+            typography: {
+                DEFAULT: {
+                    css: {
+                        color: 'colors.gray.900',
+                        h2: {
+                            color: 'colors.blue.500',
+                            '&:hover': {
+                                color: 'colors.blue.700'
+                            }
+                        },
+                        h3: {
+                            color: 'colors.blue.500',
+                            '&:hover': {
+                                color: 'colors.blue.700'
+                            }
+                        },
+                        strong: {
+                            color: 'colors.blue.500',
+                            '&:hover': {
+                                color: 'colors.blue.700'
+                            }
+                        }
+                    }
+                },
+                DARK: {
+                    css: {
+                        color: 'colors.gray.100',
+                        h2: {
+                            color: 'colors.blue.100',
+                            '&:hover': {
+                                color: 'colors.blue.100'
+                            }
+                        },
+                        h3: {
+                            color: 'colors.blue.100',
+                            '&:hover': {
+                                color: 'colors.blue.100'
+                            }
+                        },
+                        strong: {
+                            color: 'colors.blue.500',
+                            '&:hover': {
+                                color: 'colors.blue.700'
+                            }
+                        }
+                    }
                 }
             }
         }
@@ -58,5 +117,5 @@ module.exports = {
     variants: {
         extend: {}
     },
-    plugins: []
+    plugins: [require('@tailwindcss/typography')()]
 };
